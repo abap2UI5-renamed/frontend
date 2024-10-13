@@ -1,4 +1,4 @@
-## abap2UI5 - BSP renamed
+## abap2UI5 - frontend renamed
 
 
 #### Setup
