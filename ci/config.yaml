@@ -2,9 +2,9 @@
 old_name: z2ui5
 new_name: z2ui6
 source_paths:
-  - ../src_backup/01
-  - ../src_backup/02
-  - ../src_backup/03
+  - ../frontend/src/01
+  - ../frontend/src/02
+  - ../frontend/src/03
 destination_path: ../src
 exclude_patterns:
   - wapa
